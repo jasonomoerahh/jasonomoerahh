@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason, an <a href="https://linkedin.com//in/Jasonomoerah>IT Professional</a>☺</h1>
+<h1>Hi, I'm Jason, an <a href="https://linkedin.com/in/jason-omoerah-771b9235b">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
