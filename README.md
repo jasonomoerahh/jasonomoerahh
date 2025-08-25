@@ -4,17 +4,16 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Jasonomoerahh/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Jasonomoarahh/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Jasonomoerahh/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/Jasonomoerahh/post-install-config)
+    
+- <b>Active Directory</b>
+  - [Creating Active Directory infrastructure: Prerequisites](https://github.com/Jasonomoerahh/ad-prereqs)
+  - [Creating Active Directory infrastructure within Azure VMs](https://github.com/Jasonomoerahh/configure-ad)
+  - [Configuring Account Policies for Active Directory](https://github.com/Jasonomoerahh/acct-policy-config)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jasonomoerahh/network-protocols)
 
-- <b>Microsoft Azure</b>
-  - [Configuring A Virtual Machine and remote access ](https://github.com/Jasonomoerahh/configure-vm)
-  - [VPN Setup in Virtual Machine ](https://github.com/Jasonomoerahh/Setting-UP-A-VPN)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/Jasonomoerahh/azure-network-protocols)
- 
- 
- - <b>Active Directory</b>
-   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jasonomoerahh/Active-Directory)
+- <b>Virtual Private Network</b>
+  - [Analyzing VPN Setup and Usage within Azure VM](https://github.com/Jasonomoerahh/vpn-setup)
 
 <h2>🤳Connect with me:</h2>
 
